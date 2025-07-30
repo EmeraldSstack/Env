@@ -2,6 +2,8 @@
 
 **Env** is a lightweight, personal scripting language created for fun and experimentation, it’s built with enough flexibility to power small projects and who knows, maybe something more.
 
+ENV IS IN WIP!
+
 ---
 
 ## Variables
